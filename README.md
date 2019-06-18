@@ -12,6 +12,8 @@ I have already set up the Flink-1.8.0 local environment on MacOS and Intellij ID
 
 
 
+
+
 ## 2. Application Learning
 
 ### 2.1 Basic API Concepts
@@ -37,6 +39,8 @@ I have already set up the Flink-1.8.0 local environment on MacOS and Intellij ID
 ## 3. Code
 
 TODO
+
+<br></br>
 
 
 
